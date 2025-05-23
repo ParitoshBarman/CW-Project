@@ -1,7 +1,5 @@
 # CW Project - Frontend Web Application
 
-![Website Preview](https://precious-cassata-3f0134.netlify.app/assets/preview-image.png)
-
 This is a frontend web development project created as part of a course assignment. The project is live and showcases various skills in modern frontend development, including responsive design, component-based architecture, and creative UI/UX practices.
 
 ## 🚀 Live Demo
@@ -51,8 +49,7 @@ To run this project locally:
 ## 🧑‍💻 Author
 
 **Paritosh Barman**  
-📧 Email: paritoshpuitta@gmail.com  
-📱 WhatsApp: +919091467852
+Connect with me on [LinkedIn](https://www.linkedin.com/in/paritosh-barman-003257229/)
 
 ---
 
