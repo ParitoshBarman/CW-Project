@@ -49,7 +49,8 @@ To run this project locally:
 ## 🧑‍💻 Author
 
 **Paritosh Barman**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/paritosh-barman-003257229/)
+📧 Email: paritoshpuitta@gmail.com  
+📱 WhatsApp: +919091467852
 
 ---
 
